@@ -1,4 +1,4 @@
-package eurekatluan.io.blockchain;
+package io.eurekatluan.blockchain;
 
 import com.google.gson.GsonBuilder;
 

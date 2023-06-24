@@ -1,6 +1,6 @@
-package eurekatluan.io.blockchain;
+package io.eurekatluan.blockchain;
 
-import eurekatluan.io.utils.StringUtil;
+import io.eurekatluan.utils.StringUtil;
 
 import java.util.Date;
 

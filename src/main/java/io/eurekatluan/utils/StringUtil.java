@@ -1,4 +1,4 @@
-package eurekatluan.io.utils;
+package io.eurekatluan.utils;
 
 import java.security.MessageDigest;
 
