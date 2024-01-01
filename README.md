@@ -1,6 +1,6 @@
-# KuBlockShift
+# Kublock
 
-Blockchain which contains following features:
+A blockchain implementation by Java which contains following features:
 - Is made up of blocks that store data.
 - Has a digital signature that chains blocks together.
 - Requires proof of work mining to validate new blocks.
